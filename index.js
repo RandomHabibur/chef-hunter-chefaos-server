@@ -7,6 +7,7 @@ app.use(cors());
 
 const chef = require("./data/chef.json");
 const allChefDetails = require("./data/chefDetails.json");
+const menu = require("./data/menu.json");
 app.get("/", (req, res) => {
   res.send("server home");
 });
@@ -31,6 +32,7 @@ app.get("/allchef/v1/id/:id", (req, res) => {
   res.send(chefDetailsById);
 });
 
+// for chefdetails with chefId
 app.get("/allchef/v1/chefid/:chefid", (req, res) => {
   const id = req.params.chefid;
   const chefDetailsByChefId = allChefDetails.find(
@@ -39,6 +41,15 @@ app.get("/allchef/v1/chefid/:chefid", (req, res) => {
   res.send(chefDetailsByChefId);
 });
 
+// menu details
+app.get("/menu/v1", (req, res) => {
+  res.send(menu);
+});
+app.get("/menu/v1/id/:id", (req, res) => {
+  const id = req.params.id;
+  const menuDetailsById = menu.find((m) => m.id == id);
+  res.send(menuDetailsById || "[{Not Found}]");
+});
 app.listen(port, () => {
   console.log("server is running");
 });

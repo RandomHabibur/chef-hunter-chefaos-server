@@ -3,7 +3,7 @@
       "id": "P9Q8R7S6T5U4V3W2",
       "chef_id": "1",
       "chefName": "Alice Johnson",
-      "chefPhotoUrl": "https://shorturl.at/efyU6",
+      "chefPhotoUrl": "https://i.ibb.co/J2d13MW/1-chef.png",
       "likes": 1200,
       "numRecipes": 20,
       "yearsExperience": 10,
@@ -20,7 +20,7 @@
             "Serve hot."
           ],
           "rating": 4.8,
-          "recipeImages": "https://example.com/thai-noodles.jpg"
+          "recipeImages": "https://i.ibb.co/098MZbp/noodle-soup.png"
         },
         {
           "name": "Mango Salsa",
@@ -31,7 +31,7 @@
             "Chill before serving."
           ],
           "rating": 4.5,
-          "recipeImages": "https://example.com/mango-salsa.jpg"
+          "recipeImages": "https://i.ibb.co/1dM6745/mango-salsa.jpg"
         }
       ]
     },
@@ -39,7 +39,7 @@
       "id": "A2B3C4D5E6F7G8H9",
       "chef_id": "2",
       "chefName": "David Smith",
-      "chefPhotoUrl": "https://tahoequarterly.com/wp-content/uploads/uploads2/RH3A2633.jpg",
+      "chefPhotoUrl": "https://pngimg.com/uploads/chef/chef_PNG115.png",
       "likes": 800,
       "numRecipes": 15,
       "yearsExperience": 8,
@@ -62,7 +62,7 @@
             "Garnish with more fresh basil."
           ],
           "rating": 4.9,
-          "recipeImages": "https://example.com/margherita-pizza.jpg"
+          "recipeImages": "https://i.ibb.co/gzD9S8H/margherita-pizza.png"
         },
         {
           "name": "Tiramisu",
@@ -80,7 +80,7 @@
             "Chill before serving."
           ],
           "rating": 4.7,
-          "recipeImages": "https://example.com/tiramisu.jpg"
+          "recipeImages": "https://i.ibb.co/sQVZNNm/tiramisu.png"
         }
       ]
     },
@@ -88,7 +88,7 @@
       "id": "C3H2E1F4_9J8K7L6",
       "chef_id": "3",
       "chefName": "Sophia Rodriguez",
-      "chefPhotoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5v1cancn_UToOabvYZDURZl5NdRphmq1nk2aYkSBWmYhq2wWoaj0TOVSO1KcIUhqfgbA&usqp=CAU",
+      "chefPhotoUrl": "https://i.ibb.co/SPf3239/2-chef.png",
       "likes": 1500,
       "numRecipes": 25,
       "yearsExperience": 14,
@@ -109,7 +109,7 @@
             "Serve chilled."
           ],
           "rating": 4.6,
-          "recipeImages": "https://example.com/farmers-market-salad.jpg"
+          "recipeImages": "https://i.ibb.co/3TyQxyx/farmer-market-salad.png"
         },
         {
           "name": "Lemon Herb Roasted Chicken",
@@ -127,7 +127,7 @@
             "Slice and serve."
           ],
           "rating": 4.8,
-          "recipeImages": "https://example.com/lemon-herb-roasted-chicken.jpg"
+          "recipeImages": "https://i.ibb.co/CWsR9pM/chicken-roasted.png"
         }
       ]
     },
@@ -135,7 +135,7 @@
       "id": "X4Y3Z2A1B9C8D7",
       "chef_id": "4",
       "chefName": "Michael Chang",
-      "chefPhotoUrl": "https://shorturl.at/hILY6",
+      "chefPhotoUrl": "https://i.ibb.co/cC3drKM/5-successful-happy-eldery-chef-crossed-arms-portrait-white-wall-isolated.png",
       "likes": 1800,
       "numRecipes": 30,
       "yearsExperience": 20,
@@ -158,7 +158,7 @@
             "Slice and serve with soy sauce and wasabi."
           ],
           "rating": 4.9,
-          "recipeImages": "https://example.com/sushi-burrito.jpg"
+          "recipeImages": "https://i.ibb.co/sw2sbFZ/sushi-burrito.png"
         },
         {
           "name": "Mango Tango Smoothie",
@@ -173,7 +173,7 @@
             "Pour into a glass and enjoy."
           ],
           "rating": 4.7,
-          "recipeImages": "https://example.com/mango-tango-smoothie.jpg"
+          "recipeImages": "https://i.ibb.co/Y7kdJpP/mango-tango-smoothie.png"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "id": "M5N4O3P2Q1R0S9",
       "chef_id": "5",
       "chefName": "Isabella Martinez",
-      "chefPhotoUrl": "https://example.com/isabella.jpg",
+      "chefPhotoUrl": "https://i.ibb.co/k6wqNFR/12-hand-tomato-chef-women.png",
       "likes": 2000,
       "numRecipes": 35,
       "yearsExperience": 18,
@@ -205,7 +205,7 @@
             "Serve hot."
           ],
           "rating": 4.8,
-          "recipeImages": "https://example.com/empanadas.jpg"
+          "recipeImages": "https://i.ibb.co/G5ySRbf/empanadas.png"
         },
         {
           "name": "Tres Leches Cake",
@@ -225,7 +225,7 @@
             "Serve chilled with a drizzle of vanilla."
           ],
           "rating": 4.7,
-          "recipeImages": "https://example.com/tres-leches-cake.jpg"
+          "recipeImages": "https://i.ibb.co/g6cWC33/leches-cake.png"
         }
       ]
     },
@@ -233,7 +233,7 @@
       "id": "F6G5H4I3J2K1L0",
       "chef_id": "6",
       "chefName": "William Anderson",
-      "chefPhotoUrl": "https://example.com/william.jpg",
+      "chefPhotoUrl": "https://i.ibb.co/1nQxy9W/6-serious-chef-with-his-arms-crossed.png",
       "likes": 2500,
       "numRecipes": 40,
       "yearsExperience": 22,
@@ -257,7 +257,7 @@
             "Slice and serve."
           ],
           "rating": 4.9,
-          "recipeImages": "https://example.com/beef-wellington.jpg"
+          "recipeImages": "https://i.ibb.co/d0hTn5v/beef-wellington.png"
         },
         {
           "name": "Lobster Bisque",
@@ -277,7 +277,7 @@
             "Serve hot with a drizzle of cream."
           ],
           "rating": 4.8,
-          "recipeImages": "https://example.com/lobster-bisque.jpg"
+          "recipeImages": "https://i.ibb.co/zXCxRQk/lobster-bisque.png"
         },
         {
           "name": "Ratatouille",
@@ -296,7 +296,7 @@
             "Serve as a side or main dish."
           ],
           "rating": 4.7,
-          "recipeImages": "https://example.com/ratatouille.jpg"
+          "recipeImages": "https://i.ibb.co/721qydN/ratatouille.png"
         },
         {
           "name": "Mango Lassi",
@@ -312,7 +312,7 @@
             "Serve chilled in glasses."
           ],
           "rating": 4.6,
-          "recipeImages": "https://example.com/mango-lassi.jpg"
+          "recipeImages": "https://i.ibb.co/wpMyBxd/mangolassi.png"
         }
       ]
     },
@@ -320,7 +320,7 @@
       "id": "S7E6V5E4N3W2X1Y0",
       "chef_id": "7",
       "chefName": "Olivia Ramirez",
-      "chefPhotoUrl": "https://example.com/olivia.jpg",
+      "chefPhotoUrl": "https://i.ibb.co/px5qprM/13-arm-corss-chef-women.png",
       "likes": 2800,
       "numRecipes": 45,
       "yearsExperience": 24,
@@ -344,7 +344,7 @@
             "Serve hot."
           ],
           "rating": 4.9,
-          "recipeImages": "https://example.com/paella.jpg"
+          "recipeImages": "https://i.ibb.co/Zx0Q3VT/paella.png"
         },
         {
           "name": "Mole Enchiladas",
@@ -362,7 +362,7 @@
             "Serve with rice and beans."
           ],
           "rating": 4.8,
-          "recipeImages": "https://example.com/mole-enchiladas.jpg"
+          "recipeImages": "https://i.ibb.co/xs1swdw/mole-enchiladas.png"
         },
         {
           "name": "Ceviche",
@@ -380,7 +380,7 @@
             "Serve chilled with tortilla chips."
           ],
           "rating": 4.7,
-          "recipeImages": "https://example.com/ceviche.jpg"
+          "recipeImages": "https://i.ibb.co/23VGtdP/ceviche.png"
         },
         {
           "name": "Churros",
@@ -399,7 +399,7 @@
             "Serve with chocolate dipping sauce."
           ],
           "rating": 4.6,
-          "recipeImages": "https://example.com/churros.jpg"
+          "recipeImages": "https://i.ibb.co/2P8q48J/churros.png"
         },
         {
           "name": "Guacamole",
@@ -417,7 +417,7 @@
             "Serve with tortilla chips."
           ],
           "rating": 4.5,
-          "recipeImages": "https://example.com/guacamole.jpg"
+          "recipeImages": "https://i.ibb.co/r3YytQY/guacamole.png"
         }
       ]
     },
@@ -425,7 +425,7 @@
       "id": "E8I7G6H5T4_3C2H1E0F9",
       "chef_id": "8",
       "chefName": "Daniel Wu",
-      "chefPhotoUrl": "https://example.com/daniel.jpg",
+      "chefPhotoUrl": "https://i.ibb.co/sy9X588/7-happy-young-bearded-chef-man-wearing-white-cooker-uniform-hat-smiling-holding-hands-folded-while-l.png",
       "likes": 3200,
       "numRecipes": 50,
       "yearsExperience": 28,
@@ -447,7 +447,7 @@
             "Serve hot."
           ],
           "rating": 4.9,
-          "recipeImages": "https://example.com/bao-buns.jpg"
+          "recipeImages": "https://i.ibb.co/SNwM4g2/bao-buns.png"
         },
         {
           "name": "Sushi Rolls",
@@ -466,7 +466,7 @@
             "Serve with soy sauce and wasabi."
           ],
           "rating": 4.8,
-          "recipeImages": "https://example.com/sushi-rolls.jpg"
+          "recipeImages": "https://i.ibb.co/KWsfzyS/sushi-rolls.png"
         },
         {
           "name": "Kung Pao Chicken",
@@ -485,7 +485,7 @@
             "Serve with steamed rice."
           ],
           "rating": 4.7,
-          "recipeImages": "https://example.com/kung-pao-chicken.jpg"
+          "recipeImages": "https://i.ibb.co/QbLfcQn/kung-pao-chicken.png"
         },
         {
           "name": "Matcha Green Tea Ice Cream",
@@ -503,7 +503,7 @@
             "Serve as a refreshing dessert."
           ],
           "rating": 4.6,
-          "recipeImages": "https://example.com/matcha-ice-cream.jpg"
+          "recipeImages": "https://i.ibb.co/S63v75x/matcha-green-tea-ice-cream.png"
         },
         {
           "name": "Kimchi Fried Rice",
@@ -521,7 +521,7 @@
             "Garnish with sesame seeds."
           ],
           "rating": 4.5,
-          "recipeImages": "https://example.com/kimchi-fried-rice.jpg"
+          "recipeImages": "https://i.ibb.co/DfjfnLr/kimchi-fried-rice.png"
         }
       ]
     },
@@ -529,7 +529,7 @@
       "id": "N9I8N7E6T5C4H3E2F1",
       "chef_id": "9",
       "chefName": "Emily Parker",
-      "chefPhotoUrl": "https://example.com/emily.jpg",
+      "chefPhotoUrl": "https://i.ibb.co/4gP5p5q/10-old-chef.png",
       "likes": 3600,
       "numRecipes": 55,
       "yearsExperience": 32,
@@ -553,7 +553,7 @@
             "Serve hot with a drizzle of cream."
           ],
           "rating": 4.9,
-          "recipeImages": "https://example.com/lobster-bisque.jpg"
+          "recipeImages": "https://i.ibb.co/7pyy2cK/lobster-bbisque.png"
         },
         {
           "name": "Beef Wellington",
@@ -573,7 +573,7 @@
             "Slice and serve."
           ],
           "rating": 4.8,
-          "recipeImages": "https://example.com/beef-wellington.jpg"
+          "recipeImages": "https://i.ibb.co/nzgqdd8/beef-wwellington.png"
         },
         {
           "name": "Mango Lassi",
@@ -589,7 +589,7 @@
             "Serve chilled in glasses."
           ],
           "rating": 4.7,
-          "recipeImages": "https://example.com/mango-lassi.jpg"
+          "recipeImages": "https://i.ibb.co/rsKyt4t/mango-llassi.png"
         },
         {
           "name": "Tiramisu",
@@ -606,7 +606,7 @@
             "Chill before serving."
           ],
           "rating": 4.6,
-          "recipeImages": "https://example.com/tiramisu.jpg"
+          "recipeImages": "https://i.ibb.co/nBtT3kt/ttiramisu.png"
         },
         {
           "name": "Ratatouille",
@@ -625,7 +625,7 @@
             "Serve as a side or main dish."
           ],
           "rating": 4.5,
-          "recipeImages": "https://example.com/ratatouille.jpg"
+          "recipeImages": "https://i.ibb.co/NpNkvwb/rratatouille.png"
         }
       ]
     },
@@ -633,7 +633,7 @@
       "id": "T0E1N2_C3H4E5F6",
       "chef_id": "10",
       "chefName": "Alexander Mitchell",
-      "chefPhotoUrl": "https://example.com/alexander.jpg",
+      "chefPhotoUrl": "https://i.ibb.co/6ZrMpRB/8-cook-smile-very-detailed-photo-waist-white-background-935410-1477.png",
       "likes": 4200,
       "numRecipes": 60,
       "yearsExperience": 35,
@@ -657,7 +657,7 @@
             "Serve with sauce."
           ],
           "rating": 4.9,
-          "recipeImages": "https://example.com/coq-au-vin.jpg"
+          "recipeImages": "https://i.ibb.co/Bc8gq61/coq-au-vin.png"
         },
         {
           "name": "Chocolate Soufflé",
@@ -676,7 +676,7 @@
             "Dust with cocoa powder."
           ],
           "rating": 4.8,
-          "recipeImages": "https://example.com/chocolate-souffle.jpg"
+          "recipeImages": "https://i.ibb.co/QrtdJVm/chocolate-souffl.png"
         },
         {
           "name": "Bouillabaisse",
@@ -695,7 +695,7 @@
             "Serve with rouille and crusty bread."
           ],
           "rating": 4.7,
-          "recipeImages": "https://example.com/bouillabaisse.jpg"
+          "recipeImages": "https://i.ibb.co/tzpQNZ4/bouillabaisse.png"
         },
         {
           "name": "Beef Bourguignon",
@@ -715,7 +715,7 @@
             "Serve with crusty bread."
           ],
           "rating": 4.6,
-          "recipeImages": "https://example.com/beef-bourguignon.jpg"
+          "recipeImages": "https://i.ibb.co/drhbZ6q/beef-bourguignon.png"
         },
         {
           "name": "Raspberry Crème Brûlée",
@@ -733,7 +733,7 @@
             "Caramelize sugar on top."
           ],
           "rating": 4.5,
-          "recipeImages": "https://example.com/raspberry-creme-brulee.jpg"
+          "recipeImages": "https://i.ibb.co/rm0cfWM/raspberry-cr-me-br-l-e.png"
         }
       ]
     }
